@@ -12,7 +12,7 @@
         default_layer {
 
             bindings = <
-    &gresc   &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp N6 &kp N7 &kp N8 &kp N9 &kp N0 &kp MINUS &kp EQUAL &kp BSLH &kp BSPC   &kp HOME
+    &gresc   &alt_f1 &alt_f2 &alt_f3 &alt_f4 &alt_f5 &alt_f6 &alt_f7 &alt_f8 &alt_f9 &alt_f10 &alt_f11 &alt_f12 &kp BSLH &kp BSPC   &kp HOME
     &kp TAB    &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp LBKT  &kp RBKT  &kp BSLH          &kp PG_UP
     &kp CLCK    &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI &kp SQT        &kp RET             &kp PG_DN
    &kp LSHFT &kp NUBS &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH      &kp RSHIFT  &kp UP  &kp END
